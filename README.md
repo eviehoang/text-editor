@@ -37,7 +37,7 @@ Install the following to play with the program
 
 3. Run.
   ```sh
-  node server.js
+  npm start
   ```
 
 <!-- LICENSE -->
