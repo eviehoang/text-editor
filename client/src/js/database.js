@@ -20,7 +20,12 @@ export const putDb = async (content) => {
   const store = tx.objectStore('jate');
 
   // Add content to the database
-  const id = await store.add(content);
+  const id = await store.add(
+    { id: 1, value: content},
+    { id: 2, value: content},
+    { id: 3, value: content},
+    { id: 4, value: content}
+    );
 
   console.log(`Added content with id: ${id}`);
 };
