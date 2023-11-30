@@ -16,6 +16,7 @@ I've created a backend-enabled text editor with PWA capabilities. Running npm ru
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-blue?style=for-the-badge)
+![EXPRESS](https://img.shields.io/badge/PWA-pink?style=for-the-badge)
 
 
 
